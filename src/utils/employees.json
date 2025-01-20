@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "email": "employee1@example.com",
+      "password": "123",
+      "tasks": [
+        {
+          "taskTitle": "Update Homepage Design",
+          "taskDescription": "Redesign the homepage UI to enhance user experience.",
+          "active": true,
+          "newTask": true,
+          "completed": false,
+          "failed": false,
+          "dateOfTaskCreation": "2025-01-01",
+          "category": "design"
+        },
+        {
+          "taskTitle": "Fix Login Bug",
+          "taskDescription": "Resolve the issue with incorrect error messages during login.",
+          "active": false,
+          "newTask": false,
+          "completed": true,
+          "failed": false,
+          "dateOfTaskCreation": "2024-12-20",
+          "category": "dev"
+        },
+        {
+          "taskTitle": "Test Signup Workflow",
+          "taskDescription": "Validate the entire signup flow for edge cases.",
+          "active": true,
+          "newTask": true,
+          "completed": false,
+          "failed": false,
+          "dateOfTaskCreation": "2025-01-10",
+          "category": "qa"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "email": "employee2@example.com",
+      "password": "123",
+      "tasks": [
+        {
+          "taskTitle": "Create Hiring Policy",
+          "taskDescription": "Draft new hiring policies for 2025.",
+          "active": true,
+          "newTask": true,
+          "completed": false,
+          "failed": false,
+          "dateOfTaskCreation": "2025-01-15",
+          "category": "hr"
+        },
+        {
+          "taskTitle": "Conduct Candidate Interviews",
+          "taskDescription": "Organize and conduct interviews for the marketing team.",
+          "active": true,
+          "newTask": false,
+          "completed": false,
+          "failed": true,
+          "dateOfTaskCreation": "2024-12-22",
+          "category": "hr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "email": "employee3@example.com",
+      "password": "123",
+      "tasks": [
+        {
+          "taskTitle": "Setup CI/CD Pipeline",
+          "taskDescription": "Automate the deployment process using Jenkins.",
+          "active": false,
+          "newTask": false,
+          "completed": true,
+          "failed": false,
+          "dateOfTaskCreation": "2024-12-10",
+          "category": "dev"
+        },
+        {
+          "taskTitle": "Review Unit Test Coverage",
+          "taskDescription": "Analyze test coverage for recent features.",
+          "active": true,
+          "newTask": true,
+          "completed": false,
+          "failed": false,
+          "dateOfTaskCreation": "2025-01-05",
+          "category": "qa"
+        },
+        {
+          "taskTitle": "Debug Search Module",
+          "taskDescription": "Identify issues causing delays in search results.",
+          "active": true,
+          "newTask": true,
+          "completed": false,
+          "failed": false,
+          "dateOfTaskCreation": "2025-01-02",
+          "category": "dev"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "email": "employee4@example.com",
+      "password": "123",
+      "tasks": [
+        {
+          "taskTitle": "Prepare Sprint Report",
+          "taskDescription": "Summarize key accomplishments for the sprint.",
+          "active": false,
+          "newTask": false,
+          "completed": true,
+          "failed": false,
+          "dateOfTaskCreation": "2025-01-06",
+          "category": "qa"
+        },
+        {
+          "taskTitle": "QA Feedback Implementation",
+          "taskDescription": "Address QA feedback for the last sprint’s features.",
+          "active": true,
+          "newTask": true,
+          "completed": false,
+          "failed": false,
+          "dateOfTaskCreation": "2025-01-08",
+          "category": "design"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "email": "employee5@example.com",
+      "password": "123",
+      "tasks": [
+        {
+          "taskTitle": "Employee Training Session",
+          "taskDescription": "Conduct training on effective team collaboration.",
+          "active": true,
+          "newTask": true,
+          "completed": false,
+          "failed": false,
+          "dateOfTaskCreation": "2025-01-04",
+          "category": "hr"
+        },
+        {
+          "taskTitle": "Design System Documentation",
+          "taskDescription": "Compile documentation for the updated design system.",
+          "active": true,
+          "newTask": true,
+          "completed": false,
+          "failed": false,
+          "dateOfTaskCreation": "2025-01-03",
+          "category": "design"
+        },
+        {
+          "taskTitle": "Performance Test APIs",
+          "taskDescription": "Run performance benchmarks for critical APIs.",
+          "active": false,
+          "newTask": false,
+          "completed": true,
+          "failed": false,
+          "dateOfTaskCreation": "2024-12-25",
+          "category": "qa"
+        }
+      ]
+    }
+  ]
+  
